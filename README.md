@@ -19,15 +19,12 @@ You can use any language, system, or idea you want.
 
 We will provide raspberry pis with sensors to be used in the hackathon in case you need them, though they are not required to be used.
 
-The Prize: 
-
-
+## The Prize 
 
 <img src='http://i.giphy.com/abwE9TnmuqdlC.gif' height="auto" width="auto" />
 
 
-## The Prize
-A BBC micro:bit for each member of the winning team.
+
 
 
 
