@@ -17,7 +17,10 @@ We will provide raspberry pis with sensors to be used in the hackathon in case y
 
 ## The Prize 
 
-<img src='http://i.giphy.com/abwE9TnmuqdlC.gif' height="auto" width="auto" />
+1x The CamJam EduKit #2 for each member of the winning team
+1 x Raspberry Pi Zero V1.3, Raspberry Pi Zero Camera Cable & 8 MegaPixel Pi Camera for each member of the winning team. 
+
+
 
 
 
