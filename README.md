@@ -9,7 +9,7 @@ Some more info about us: http://hackernest.com/about/
 
 ## The Challenge
 
-We partner with government bodies to help people get in to STEM fields and in particular, programming. Most recently we partnered with the UK and Canadian governments to do a hackathon for helping people with Dementia. We believe that the young people of today are even more inventive than us, so we would like to see you come up with someone that would help people in some way live a better life. 
+We partner with government bodies to help people get in to STEM fields and in particular, programming. Most recently we partnered with the UK and Canadian governments to do a hackathon for helping people with Dementia. We believe that the young people of today are even more inventive than us, so we would like to see you come up with something that would help people in some way live a better life. 
 
 You can use any language, system, or idea you want. 
 
